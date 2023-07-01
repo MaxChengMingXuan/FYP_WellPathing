@@ -1,16 +1,13 @@
-# wellpathing
+# A Mobile Application for Mental Health Screening and Schematizing
 
-A new Flutter project.
 
-## Getting Started
+WellPathing is a Android mobile application designed for UUM (Universiti Utara Malaysia) students and staff who are required to take a mental health test. The WellPathing mobile application is used to screening using the mental health screening tool, Saringan Status Kesihatan Mental (SSKM). It helps counsellors to collect and analyse the responses of students and staff in Malaysian universities. 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/MaxChengMingXuan/FYP_Wellpathing/assets/78088441/e031ab63-cfe7-491b-9fd4-debb6fd232d9)
+![image](https://github.com/MaxChengMingXuan/FYP_Wellpathing/assets/78088441/3a0f3cdb-75ca-4eaf-819c-591d574542fa)
+![image](https://github.com/MaxChengMingXuan/FYP_Wellpathing/assets/78088441/d928b403-d463-4b0c-950b-3a2587c468ac)
+![image](https://github.com/MaxChengMingXuan/FYP_Wellpathing/assets/78088441/e63673a2-8d5c-4d27-98f2-3ada22633646)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
