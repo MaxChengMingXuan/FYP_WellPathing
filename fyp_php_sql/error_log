@@ -1,0 +1,13 @@
+[02-May-2023 17:12:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'max'@'localhost' (using password: YES) in /home4/uumitpro/public_html/wellpathing/php/dbconnect.php on line 7
+[02-May-2023 17:14:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'max'@'localhost'@'localhost' (using password: YES) in /home4/uumitpro/public_html/wellpathing/php/dbconnect.php on line 7
+[02-May-2023 17:14:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'max'@'localhost'@'localhost' (using password: YES) in /home4/uumitpro/public_html/wellpathing/php/dbconnect.php on line 7
+[02-May-2023 17:14:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'max'@'localhost'@'localhost' (using password: YES) in /home4/uumitpro/public_html/wellpathing/php/dbconnect.php on line 7
+[02-May-2023 17:17:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'max'@'localhost'@'localhost' (using password: YES) in /home4/uumitpro/public_html/wellpathing/php/dbconnect.php on line 7
+[02-May-2023 17:17:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'max'@'localhost'@'localhost' (using password: YES) in /home4/uumitpro/public_html/wellpathing/php/dbconnect.php on line 7
+[02-May-2023 17:17:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'max'@'localhost' (using password: YES) in /home4/uumitpro/public_html/wellpathing/php/dbconnect.php on line 7
+[02-May-2023 17:21:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'max'@'localhost' (using password: YES) in /home4/uumitpro/public_html/wellpathing/php/dbconnect.php on line 7
+[02-May-2023 17:21:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'max'@'localhost' (using password: YES) in /home4/uumitpro/public_html/wellpathing/php/dbconnect.php on line 7
+[02-May-2023 17:22:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'max'@'localhost' (using password: YES) in /home4/uumitpro/public_html/wellpathing/php/dbconnect.php on line 7
+[02-May-2023 17:23:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'max'@'localhost' (using password: YES) in /home4/uumitpro/public_html/wellpathing/php/dbconnect.php on line 7
+[02-May-2023 17:50:13 UTC] PHP Notice:  Undefined index: email in /home4/uumitpro/public_html/wellpathing/php/login_user.php on line 8
+[02-May-2023 17:50:13 UTC] PHP Notice:  Undefined index: password in /home4/uumitpro/public_html/wellpathing/php/login_user.php on line 9
